@@ -46,7 +46,7 @@ async def sblol(interaction: discord.Interaction):
 
 # 啟動 bot
 if __name__ == "__main__":
-    token = os.getenv("DISCORD_TOKEN")
+    token = os.getenv("MTU0Mjc2NTMzOTQ4NDM2MDgzNA.GWvsYo._rQygOMJBkoUmUsIZnFpB7cjAYkgUzq4AH000g")
     if not token:
         print("❌ 錯誤: 請在 .env 文件中設定 DISCORD_TOKEN")
     else:
